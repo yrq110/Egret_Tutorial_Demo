@@ -1,6 +1,6 @@
 # Egret_Tutorial_Demo
 
-a gather of usage in [egret document](http://edn.egret.com/cn/docs/page/579)
+a demo of [egret document](http://edn.egret.com/cn/docs/page/579)
 
 ##has
 * GameExampleProject
