@@ -8,7 +8,7 @@ a gather of usage in [egret document](http://edn.egret.com/cn/docs/page/579)
 * TextField
 * InputTextField & GetFocus
 * Color and Blur Filter
-* Timer % startTick
+* Timer & startTick
 * MultiStyleLabel
 * Button(Shape or TextField)
 * ArcProgress & SectorProgress
