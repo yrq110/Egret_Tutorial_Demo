@@ -2,7 +2,7 @@
 
 a demo of [egret document](http://edn.egret.com/cn/docs/page/579)
 
-##has
+## Features
 * GameExampleProject
 * SystemInformations
 * TextField
